@@ -2,7 +2,7 @@
 - 😁 My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,reactjs,html,css,figma" />
+    <img src="https://skillicons.dev/icons?i=git,react,html,css,figma,javascript,python,tailwindcss,bootstrap" />
   </a>
 </p>
 <!---
